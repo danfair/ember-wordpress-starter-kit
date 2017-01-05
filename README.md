@@ -81,7 +81,7 @@ Password    | `wordpress`
 <a id="mysql-terminal"></a>
 #### Connecting to MySQL in Terminal
 
-The MySQL server listens on all interfaces on port 3306. If you have the MySQL command-line client installed on your host machine, you can simply `mysql --host wplib.box -u wordpress -pwordpress` (assuming you are using the `wplib.box` hostname).
+The MySQL server listens on all interfaces on port 3306. If you have the MySQL command-line client installed on your host machine, you can simply `mysql --host wplib.box -u wordpress -pwordpress` (assuming you are using the `wplib.box` hostname). 
 
 #### Customization
 
