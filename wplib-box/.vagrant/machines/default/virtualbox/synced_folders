@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/Users/danfair/Documents/sandbox/ember-wordpress-starter-kit/wplib-box/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/danfair/Documents/sandbox/ember-wordpress-starter-kit/wplib-box","disabled":false,"__vagrantfile":true}}}

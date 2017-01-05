@@ -1,0 +1,10 @@
+	
+/www/*
+!/www/content/
+/www/content/*
+!/www/content/mu-plugins
+/www/content/mu-plugins/*
+!/www/content/plugins
+/www/content/plugins/*
+!/www/content/themes
+/www/content/theme/*

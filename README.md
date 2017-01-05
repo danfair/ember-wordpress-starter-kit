@@ -38,11 +38,13 @@ In the project's directory:
 
 * `cd wplib-box`
 * `vagrant up`
-* open "http://wplib.box"
+* open "http://ember-wordpress.dev"
+
+Tip: Here's how to [change the local domain](https://github.com/wplib/wplib-box#setting-the-domain-name).
 
 #### Logging into the WordPress Admin
 
-To login to [wplib.box/wp-admin/](http://wplib.box/wp-admin) use the following credentials:
+To login to [ember-wordpress.dev/wp-admin/](http://ember-wordpress.dev/wp-admin) use the following credentials:
 
 Credential|Value
 ---------|------
@@ -71,7 +73,7 @@ Here are the credentials you can use for accessing the MySQL database using a GU
 
 Credential|Value
 ----------|----------
-Host Name   | `wplib.box` _(or `example.dev`)_
+Host Name   | `ember-wordpress.dev` _(or `your-domain.dev`)_
 Port        | `3306`
 Username    | `wordpress`
 Password    | `wordpress`
