@@ -1,0 +1,37 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# EMBER compiled output
+/ember-app/dist
+/ember-app/tmp
+
+# EMBER dependencies
+/ember-app/node_modules
+/ember-app/bower_components
+
+# EMBER misc
+/ember-app/.sass-cache
+/ember-app/connect.lock
+/ember-app/coverage/*
+/ember-app/libpeerconnection.log
+/ember-app/npm-debug.log
+/ember-app/testem.log
+
+# WPLIB.BOX
+/.idea
+/sql/*
+!/sql/default.sql
+/IP
+/.vagrant
+/.vscode
+/.wplib-box.git
+/.save.git
+/logs
+/scripts
+/www/*
+!/www/content/
+/www/content/object-cache.php
+/www/content/mu-plugins/wp-redis
+/www/content/plugins/helpful-information
+/www/content/plugins/query-monitor
+/www/content/themes/twentysixteen
+/watchers
